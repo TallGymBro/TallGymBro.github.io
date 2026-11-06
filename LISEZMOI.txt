@@ -1,0 +1,9 @@
+BlockPlan — version hors ligne (PWA)
+
+1. Héberge ce dossier sur n'importe quel hébergement HTTPS statique gratuit :
+   - GitHub Pages : nouveau dépôt public, « Add file > Upload files » avec les 5 fichiers,
+     puis Settings > Pages > Branch: main. L'adresse sera https://<pseudo>.github.io/<dépôt>/
+   - ou Netlify Drop (app.netlify.com/drop) : glisse le dossier depuis un PC.
+2. Ouvre l'adresse dans Chrome sur ton téléphone, menu ⋮ > « Ajouter à l'écran d'accueil » (ou « Installer l'application »).
+3. Ouvre-la une fois avec du réseau : ensuite elle fonctionne sans connexion.
+   Les projets sont enregistrés sur le téléphone. Exporte en .json de temps en temps pour garder une copie.
